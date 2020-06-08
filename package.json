@@ -1,0 +1,16 @@
+{
+  "name": "craw-apk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "screenshoteer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "puppeteer": "^3.3.0"
+  }
+}
